@@ -1,5 +1,5 @@
 # Auto-File-Renamer
-## Automatic File Renamer can be used to reorder the sequence of files. 
+## Automatic File Renamer can be used to order the sequence of files. 
 ###### The only way to set an order in files is to rename them in a certain way
 
 Below are the variables you need to set for the script to work
