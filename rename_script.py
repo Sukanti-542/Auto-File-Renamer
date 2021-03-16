@@ -26,4 +26,4 @@ with open('metadata.csv', encoding="utf8") as csv_file:
                 shutil.copy(current_directory + '/' + row[0], new_directory + '/0' + str(line_count) + '.wav')
             else:
                 shutil.copy(current_directory + '/' + row[0], new_directory + '/' + str(line_count) + '.wav')
-                line_count += 1
+            line_count += 1
